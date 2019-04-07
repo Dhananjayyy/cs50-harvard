@@ -24,5 +24,5 @@ int main()
     int nickels = ((cents % 25) % 10) / 5;
     int pennies = ((cents % 25) % 10) % 5;
 
-    printf("%d\n", quarters + dimes + nickels + pennies);
+    printf("Quarters : %d\nDimes : %d\nNickels : %d\nPennies : %d\nTotal coins : %d\n",quarters,dimes,nickels,pennies, quarters + dimes + nickels + pennies);
 }
