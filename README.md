@@ -6,10 +6,12 @@ This course teaches students how to think algorithmically and solve problems eff
 
 ## Assignments and Problem Sets
 
+> ### [**Problem Set 0**](/pset0)
+- [Scratch Game](/pset0/scratch)
 > ### [**Problem Set 1**](/pset1)
  - [Hello, World!](/pset1/hello.c)
  - [Mario Pyramid 1](/pset1/mario1.c)
- - [Mario Pyramid 2](/pset1/mario1.c)
+ - [Mario Pyramid 2](/pset1/mario2.c)
  - [Cash](/pset1/cash.c)
  - [Credit](/pset1.credit.c)
  
