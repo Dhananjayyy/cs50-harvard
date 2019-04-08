@@ -11,3 +11,20 @@ This course teaches students how to think algorithmically and solve problems eff
  - [Mario Pyramid 1](/pset1/mario1.c)
  - [Mario Pyramid 2](/pset1/mario1.c)
  - [Cash](/pset1/cash.c)
+ 
+ ## Problem Sets
+
+A summary of problem sets appears below
+
+|Problem Set            |Topic  |Language|
+|:----------------------|:-----:|:-------------:|
+|[Problem Set 0](/Scratch Project (1).sb3) |Scratch|Scratch|
+|[Problem Set 1](/pset1) |C|C|
+|[Problem Set 2](/pset2) |Crypto|C|
+|[Problem Set 3](/pset3) |Game of Fifteen|C|
+|[Problem Set 4](/pset4) |Forensics|C|
+|[Problem Set 5](/pset5) |Mispellings|C|
+|[Problem Set 6](/pset6) |Sentimental|Python|
+|[Problem Set 7](/pset7) |C$50 Finance|Python, SQL|
+|[Problem Set 8](/pset8) |Mashup|JavaScript|
+|[Final Project](/final) |Any|Any|
