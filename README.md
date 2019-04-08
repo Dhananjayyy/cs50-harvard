@@ -18,7 +18,7 @@ A summary of problem sets appears below
 
 |Problem Set            |Topic  |Language|
 |:----------------------|:-----:|:-------------:|
-|[Problem Set 0](/Scratch Project (1).sb3) |Scratch|Scratch|
+|[Problem Set 0](/pset0) |Scratch|Scratch|
 |[Problem Set 1](/pset1) |C|C|
 |[Problem Set 2](/pset2) |Crypto|C|
 |[Problem Set 3](/pset3) |Game of Fifteen|C|
