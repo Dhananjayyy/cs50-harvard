@@ -23,7 +23,7 @@ A summary of problem sets appears below
 |[Problem Set 2](/pset2) |Crypto|C|
 |[Problem Set 3](/pset3) |Game of Fifteen|C|
 |[Problem Set 4](/pset4) |Forensics|C|
-|[Problem Set 5](/pset5) |Mispellings|C|
+|[Problem Set 5](/pset5) |Misspellings|C|
 |[Problem Set 6](/pset6) |Sentimental|Python|
 |[Problem Set 7](/pset7) |C$50 Finance|Python, SQL|
 |[Problem Set 8](/pset8) |Mashup|JavaScript|
