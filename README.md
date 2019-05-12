@@ -14,6 +14,8 @@ This course teaches students how to think algorithmically and solve problems eff
  - [Mario Pyramid 2](/pset1/mario2.c)
  - [Cash](/pset1/cash.c)
  - [Credit](/pset1.credit.c)
+ > ### [**Problem Set 2**](/pset2)
+ - [Caesar](/pset1/caesar.c)
  
  ## Problem Sets
 
