@@ -17,7 +17,8 @@ https://www.edx.org/course/cs50s-introduction-to-computer-science
 </p>
 
 <img src="caesar1.png"/>
-
+<p align="center"> Caesar
+</p>
 
 ## Assignments and Problem Sets
 
