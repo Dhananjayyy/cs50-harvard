@@ -5,7 +5,9 @@
 <p align="center">
 Harvard's Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming.
 </p>
-This course taught me how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML.
+This course taught me how to think algorithmically and solve problems efficiently. 
+
+Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML.
 
 Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for majors and non-majors alike, with or without prior programming experience.
 
@@ -48,4 +50,4 @@ A summary of problem sets appears below
 |[Problem Set 6](/pset6) |Sentimental|Python|
 |[Problem Set 7](/pset7) |C$50 Finance|Python, SQL|
 |[Problem Set 8](/pset8) |Mashup|JavaScript|
-|[Final Project](/final) |Any|Any|
+|[Final Project](/final) |Your Choice|Your Choice|
